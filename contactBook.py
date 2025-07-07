@@ -1,5 +1,3 @@
-name_numbers = {}
-
 print("You can save or delete phone numbers")
 option = input("Do you want to save, delete or view a number S/D/V : ")
 
